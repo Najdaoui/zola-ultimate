@@ -24,7 +24,7 @@
 
 ### Via CDN
 ```
-<script src="https://cdn.jsdelivr.net/gh/codexa/zola-ultimate@latest/dist/zola.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Najdaoui/zola-ultimate@latest/dist/zola.min.js"></script>
 ```
 
 ### Module ES6
